@@ -1,0 +1,17 @@
+StringInserts: Este é um campo que pode conter informações adicionais sobre o evento, como detalhes específicos sobre o que ocorreu. Dependendo do tipo de evento, esses valores podem variar.
+
+TimeGenerated: Esta é a data e hora em que o evento foi gerado.
+
+EventID: Este é um número que identifica o tipo específico de evento. Os códigos de evento são usados para categorizar diferentes tipos de eventos no sistema.
+
+EventType: Este campo indica o tipo de evento. Pode ser um evento de informação, um aviso, um erro, etc.
+
+SourceName: Este é o nome da origem do evento. Por exemplo, o nome do aplicativo ou serviço que gerou o evento.
+
+ComputerName: Este é o nome do computador onde o evento ocorreu.
+
+RecordNumber: Este é um número de sequência exclusivo atribuído a cada evento no registro de eventos.
+
+TimeWritten: Esta é a data e hora em que o evento foi gravado no registro de eventos.
+
+EventCategory: Este é um campo que pode ser usado para categorizar eventos em grupos relacionados.
