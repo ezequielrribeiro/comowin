@@ -1,5 +1,5 @@
 import win32evtlog
-
+#teste monitoramento evento security
 server = 'localhost'
 logtype = 'Security'  # Especificando o tipo de log como 'Security' para acessar os eventos de segurança
 hand = win32evtlog.OpenEventLog(server, logtype)
