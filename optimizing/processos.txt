@@ -1,0 +1,16 @@
+winsat: é o componente de diagnostico do windows.
+Para desativar agendador de tarefas > maintenance > WinSAT
+comandos cmd
+Fsutil behavior query memoryusage
+#quanto de memoria esta sendo utilizada. se faz trabalhos em paralelo é bom colocar em 2
+cleanmgr.exe C
+#para limpa os arquivos temporários
+tempo de abrir os softwares
+win + r regedit
+menushowdelay melhora a responsividade do seu windows, deixando ele mais rápido ao abrir softwares e inicializar. colocar em zero
+fica em editor de registro opção HKEY_CURRENT_USER> Control Panel> Desktop
+win + r regedit
+
+win +x > sistema > configurações avançadas do sistema> aba avançada> configurações> ajustar e desabilitar 
+win +x > sistema > configurações avançadas do sistema> multitarefas > desabilitar linha do tempo
+desativar aplicativos em segundo plano em aplicativos em segundo plano
